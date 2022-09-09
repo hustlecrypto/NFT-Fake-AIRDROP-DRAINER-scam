@@ -1,5 +1,5 @@
 ⚠️ You need to host it on a real website for it to work! For help contact me on discord: nftgenie#3448
-🖼️ NFT Stealer / Drainer Template ( Not Obfuscated / No Backdoors )! ⚠️Udpated 25.07.2022 Better versions available at https://nftgenie.sellix.io/
+🖼️ NFT Stealer / Drainer Template ( Not Obfuscated / No Backdoors )! ⚠️Udpated 10.09.2022 Better versions available at https://nftgenie.sellix.io/
 
 💡 Features
  Discord Webhook Notification System
